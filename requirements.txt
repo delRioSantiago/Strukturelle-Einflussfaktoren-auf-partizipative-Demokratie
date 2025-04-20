@@ -1,0 +1,18 @@
+# Datenanalyse & ML
+pandas>=1.5
+numpy>=1.21
+scikit-learn>=1.1
+xgboost>=1.6  # nur, wenn tatsächlich verwendet
+
+# Visualisierung
+matplotlib>=3.5
+seaborn>=0.12
+
+# Weltbankdaten & Codes
+wbdata>=0.3.0
+pycountry>=22.3.5
+
+# Jupyter-Umgebung
+jupyterlab>=3.0
+notebook>=6.0
+ipykernel>=6.0

@@ -1,0 +1,24 @@
+# Datenanalyse
+pandas>=1.5
+numpy>=1.21
+scikit-learn
+
+
+# Visualisierung
+matplotlib>=3.5
+seaborn>=0.12
+
+# Machine Learning / Feature Importance / Clustering
+scikit-learn>=1.1
+xgboost>=1.6
+
+# Jupyter-Umgebung
+jupyterlab>=3.0
+notebook>=6.0
+ipykernel>=6.0
+
+# Optional: Automatischer Download von Weltbankdaten
+wbdata>=0.3.0
+
+# Optional: Ländercode-Handling
+pycountry>=22.3.5
