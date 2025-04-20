@@ -63,7 +63,6 @@ TARGET_VARIABLE = "v2x_partipdem"
 data/
   ├── raw/               # Rohdaten (WDI ZIPs, V-Dem etc.)
   ├── processed/         # Vorverarbeitete Daten (z. B. df_master.csv)
-        ├── variance/    # Varianz-Ergebnisse pro Indikator
 
 scripts/
   ├── load_wdi.py
@@ -73,9 +72,5 @@ scripts/
 
 notebooks/
   └── Selbststudium.ipynb
+results/               # Ergebnistabellen und Grafiken
 ```
-
-## Autor / Kontakt
-- Name: [Dein Name]
-- Universität / Institution (optional)
-- Kontakt: [optional]
